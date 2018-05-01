@@ -1,0 +1,94 @@
+
+.title {
+	text-align: center;
+}
+
+.container {
+        display: flex;
+        flex-wrap: wrap;
+       	width: 100%;
+
+}
+
+table {
+	width: 50%;
+}
+
+table, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+td {
+	text-align: center;
+}
+
+.box1 {
+	order: 5;
+	width: 25%;
+}
+
+.box2 {
+	order: 9;
+	width: 25%;
+}
+
+.box3 {
+	order: 10;
+	width: 25%;
+}
+
+.box4 {
+	order: 10;
+	width: 25%;
+}
+
+.box5 {
+	order: 13;
+	width: 25%;
+}
+
+.box6 {
+	order: 6;
+	width: 25%;
+}
+
+.box7 {
+	order: 8;
+	width: 25%;
+}
+
+.box8 {
+	order: 14;
+	width: 25%;
+}
+
+.box9 {
+	order: 2;
+	width: 25%;
+}
+
+.box10 {
+	order: 1;
+	width: 25%;
+}
+
+.box11 {
+	order: 4;
+	width: 25%;
+}
+
+.box12 {
+	order: 3;
+	width: 25%;
+}
+
+.box13 {
+	order: 11;
+	width: 25%;
+}
+
+.box14 {
+	order: 7;
+	width: 25%;
+}
